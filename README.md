@@ -1,2 +1,3 @@
-# hnapp
-Simple https://news.ycombinator.com/ client
+## hnapp
+
+Simple client for https://news.ycombinator.com/
